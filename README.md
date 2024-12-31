@@ -9,4 +9,4 @@ LangChain Academy 官方免费课程（LangGraph + Agent）的中文翻译版。
 ## 翻译说明
 - 此中文翻译版删除了 LangGraph Studio 相关的模块
 - 删除了 .env 相关的说明，统一使用 get_pass 进行 API Key 的快捷赋值
-- 欢迎对 LangGraph + Agent 感兴趣的朋友加入一起贡献 （本人邮箱：[brycewang2018@gmail.com](mailto: brycewang2018@gmail.com)）
+- 欢迎对 LangGraph + Agent 感兴趣的朋友加入一起贡献 （本人邮箱：[brycewang2018@gmail.com](mailto: brycewang2018@gmail.com)
