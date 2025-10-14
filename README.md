@@ -1,5 +1,6 @@
 
-# 基于 LangChain Academy 几门官方课程写成的书籍将在25年底发布，敬请期待：https://brycewang-stanford.github.io/langgraph-lightning/
+# 基于 LangChain Academy 几门官方课程写成的书籍将在25年底发布，敬请期待：
+# www.learngraph.online
 <img width="1517" height="1028" alt="image" src="https://github.com/user-attachments/assets/d211cb3e-97d6-4493-a448-e30dc8aae250" />
 
 # langchain-academy-zh
